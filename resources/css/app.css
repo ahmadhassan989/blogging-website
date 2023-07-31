@@ -1,0 +1,7 @@
+.main-logo img {
+    height: 49px;
+    width: auto;
+    top: 50%;
+    position: relative;
+    transform: translate3d(0,-50%,0);
+}
